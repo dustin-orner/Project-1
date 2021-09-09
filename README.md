@@ -1,2 +1,2 @@
 # Project-1
-These are all my projects for my fist Computer Science class!
+This my first project for DPR 101.
